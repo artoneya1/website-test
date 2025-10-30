@@ -213,6 +213,10 @@ body {
     margin-bottom: 5px;
 }
 
+.footer-section__nav-item a:hover {
+    color: var(--secondary-color);
+}
+
 .footer__copyright {
     font: normal normal 300 0.75em var(--primary-font);
     letter-spacing: 0;
