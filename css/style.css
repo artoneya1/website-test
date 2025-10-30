@@ -184,6 +184,21 @@ body {
 /* e: service */
 
 /* contact */
+.form {
+
+}
+
+.form__input {
+    width: 100%;
+    border: 1px solid var(--gray-color-400);
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin-bottom: 20px;
+}
+
+.form__checkbox {
+    margin-bottom: 20px;
+}
 /* e: contact */
 
 /* footer */
